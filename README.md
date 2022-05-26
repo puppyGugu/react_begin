@@ -1,3 +1,5 @@
+http://starpage.s3-website.ap-northeast-2.amazonaws.com
+
 - Q1. 평균 평점 state를 메인 컴포넌트에 두셨나요, 하위 컴포넌트인 평균 평점 컴포넌트에 두셨나요?
 (state와 props 개념을 떠올려 보세요)
 
